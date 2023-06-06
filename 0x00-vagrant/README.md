@@ -1,1 +1,1 @@
-This is a new README file
+The uname command is used to print basic system information.
